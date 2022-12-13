@@ -14,12 +14,12 @@
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/logo.png",
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#f36b7f",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/logo.png",
   "store_id": 32640,
   "description": ". Moda fitness . Moda praia\n",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/logo.png"
 }
