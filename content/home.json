@@ -45,6 +45,22 @@
       "page": 1,
       "collection_id": null,
       "headless": false
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "headless": true,
+      "collection_id": "61e5ab250c7c727225105353:categories:Calça:/calca"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "headless": true,
+      "collection_id": "61e5ab4c0c7c727225105401:categories:Macacão:/macacao"
     }
   ]
 }
