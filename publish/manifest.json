@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.6689126be6672e8b9736a209640682cf.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.0534da942ada2aec17371f9850b24048.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.1b3d3b7e17c22fe12286e1aa5e7d4ab9.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.95d1a6b9eb5ab7fc1259c5bb4998ab10.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.745c94168bb2d08a2a996e496bcc9058.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Powerful Fitness Store",
+  "short_name": "Powerful Fitness Store",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": ". Moda fitness . Moda praia\n",
+  "background_color": "#ffffff",
+  "theme_color": "#ea904c"
+}
