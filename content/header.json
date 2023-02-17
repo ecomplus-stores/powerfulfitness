@@ -9,7 +9,9 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/acessorios?Acessórios"
+    ],
     "random": 20,
     "full_width": true
   },
