@@ -30,7 +30,7 @@
       "shuffle": true,
       "collection_id": null,
       "sort": "offers",
-      "title": "PROMOÇÃO",
+      "title": "OUTLET",
       "headless": false,
       "limit": 12,
       "page": 1
@@ -48,8 +48,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "headless": true,
-      "collection_id": "61e5ab250c7c727225105353:categories:Calça:/calca"
+      "headless": false,
+      "collection_id": "61e5ab3b0c7c7272251053be:categories:Legging:/legging"
     },
     {
       "type": "collection-shelf",
@@ -58,6 +58,10 @@
       "page": 1,
       "headless": true,
       "collection_id": "61e5ab4c0c7c727225105401:categories:Macacão:/macacao"
+    },
+    {
+      "type": "custom-html",
+      "html": "<script src=\"https://www.sowecms.com/demos/InstagramFeed/dist/InstagramFeed.min.js\"></script>\n<div id=\"instagram-feed\" class=\"instagram_feed\"></div>\n<script>\n    (function(){\n        new InstagramFeed({\n            'username': 'seja.powerful!',\n            'container': document.getElementById(\"instagram-feed\"),\n            'display_profile': false,\n            'display_biography': false,\n            'display_igtv': false,\n            'display_gallery': true,\n            'get_raw_json': false,\n            'callback': null,\n            'styling': true,\n            'items': 6,\n            'items_per_row': 6,\n            'margin': 1\n        });\n    })();\n</script>"
     }
   ]
 }
