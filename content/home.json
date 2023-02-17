@@ -48,7 +48,7 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "headless": true,
+      "headless": false,
       "collection_id": "61e5ab4c0c7c727225105401:categories:Macacão:/macacao"
     },
     {
