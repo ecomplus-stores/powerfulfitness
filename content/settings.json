@@ -1,26 +1,26 @@
 {
-  "domain": "powerfulfitness.com.br",
+  "domain": "powerella.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#ea904c",
+  "primary_color": "#ff832d",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/logo2.png",
   "repository": "ecomplus-stores/powerfulfitness",
-  "name": "Powerful Fitness Store",
-  "short_name": "Powerful Fitness Store",
+  "logo": "/img/uploads/18.png",
+  "name": "Powerella Fitness",
+  "short_name": "Powerella ",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/logo.png",
+  "favicon": "/img/uploads/18.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#f36b7f",
-  "icon": "/img/uploads/logo.png",
+  "secondary_color": "#ff508f",
+  "icon": "/img/uploads/18.png",
   "store_id": 32640,
-  "description": "Moda fitness e  Moda praia\n",
-  "large_icon": "/img/uploads/banner-1-site-banner-para-mercado-shops-movel-pequeno-1200-300-px-1-.png"
+  "description": "Moda fitness e comfy\n",
+  "large_icon": "/img/uploads/banner-1-site-banner-para-mercado-shops-movel-pequeno-1200-300-px-.png"
 }
