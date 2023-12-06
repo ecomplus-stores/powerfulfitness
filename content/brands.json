@@ -23,6 +23,18 @@
     {
       "type": "document-banner",
       "enabled": true
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/sig_catav_desk.webp"
+        }
+      ]
     }
   ]
 }
