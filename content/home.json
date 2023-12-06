@@ -10,14 +10,19 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/sem-nome-1200-300-px-.png",
-          "mobile_img": "/img/uploads/sem-nome-1200-300-px-480-300-px-.png",
-          "link": "https://www.powerfulfitness.com.br/colecao-ciclos-ccm"
+          "img": "/img/uploads/sig_catav_desk.webp",
+          "mobile_img": "",
+          "link": ""
         },
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/sem-nome-1200-300-px-2-.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/poente.png"
         }
       ]
     },
