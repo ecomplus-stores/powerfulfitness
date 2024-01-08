@@ -24,9 +24,6 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Site Seguro SSL Certificado"
-    },
-    {
-      "src": "/img/uploads/paypal-2.png"
     }
   ],
   "payment_methods": {
