@@ -24,6 +24,9 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Site Seguro SSL Certificado"
+    },
+    {
+      "src": "/img/uploads/paypal-2.png"
     }
   ],
   "payment_methods": {
@@ -40,8 +43,8 @@
     "mastercard": true,
     "paypal": true,
     "citibank": false,
-    "mais": true,
+    "mais": false,
     "itau": false
   },
-  "credits": "Pix"
+  "credits": ""
 }
