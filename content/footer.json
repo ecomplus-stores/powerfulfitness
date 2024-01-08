@@ -22,7 +22,8 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/ssl-safe.png"
+      "src": "/img/uploads/ssl-safe.png",
+      "alt": "Site Seguro SSL Certificado"
     }
   ],
   "payment_methods": {
@@ -37,9 +38,10 @@
     "bradesco": false,
     "santander": false,
     "mastercard": true,
+    "paypal": true,
     "citibank": false,
-    "mais": false,
+    "mais": true,
     "itau": false
   },
-  "credits": ""
+  "credits": "Pix"
 }
