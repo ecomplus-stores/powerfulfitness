@@ -1,5 +1,5 @@
 {
-  "css": ".info-bar {\n  max-width: none;\n}\n.header__search-input {\n  border: 1px #9ad90f solid;\n}",
+  "css": ".info-bar {\n  max-width: none;\n}\n.header__search-input {\n  border: 1px #9ad90f solid;\n}\n.product-card__buy.fade {\n  opacity: 1 !important;\n}\n@media screen and (max-width: 480px) {\n.product-card__buy.fade {\n  opacity: 1 !important;\n}}",
   "html_head": "",
   "html_body": "<a href=\"https://wa.me/44991362258?text=Ola%20estou%20na%20sua%20loja\" style=\"position:fixed;width:60px;height:60px;bottom:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;z-index:1000;right:40px;\" target=\"_blank\">\n<i style=\"margin-top:16px\" class=\"fab fa-whatsapp\"></i>\n</a>"
 }
