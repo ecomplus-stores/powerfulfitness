@@ -23,7 +23,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/poente.png"
+          "img": "/img/uploads/poente.png",
+          "mobile_img": "/img/uploads/moda-casual-1200-x-300-px-480-x-300-px-1-.png"
         },
         {
           "start": "",
@@ -36,10 +37,6 @@
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "custom-html",
-      "html": "<div class=\"list-variations\">\n<h4>Compre por tamanhos:</h4>\n<ul>\n   <li><a href=\"/search?filters[]=tamanho:P\">P</a></li>\n   <li> <a href=\"/search?filters[]=tamanho:M\">M</a></li>\n   <li> <a href=\"/search?filters[]=tamanho:G\">G</a></li>\n   <li> <a href=\"/search?filters[]=tamanho:GG\">GG</a></li>\n</ul>\n<div>"
     },
     {
       "type": "collection-shelf",
@@ -74,6 +71,10 @@
       "page": 1,
       "headless": false,
       "collection_id": "61e5ab4c0c7c727225105401:categories:Macacão:/macacao"
+    },
+    {
+      "type": "custom-html",
+      "html": "<div class=\"list-variations\">\n<h4>Compre por tamanhos:</h4>\n<ul>\n   <li><a href=\"/search?filters[]=tamanho:P\">P</a></li>\n   <li> <a href=\"/search?filters[]=tamanho:M\">M</a></li>\n   <li> <a href=\"/search?filters[]=tamanho:G\">G</a></li>\n   <li> <a href=\"/search?filters[]=tamanho:GG\">GG</a></li>\n</ul>\n<div>"
     },
     {
       "type": "custom-html",
