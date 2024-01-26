@@ -10,15 +10,15 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/sig_catav_desk.webp",
-          "mobile_img": "",
-          "link": ""
+          "img": "/img/uploads/www.powerella.com.br-1200-x-300-px-.png",
+          "mobile_img": "/img/uploads/www.powerella.com.br-480-x-300-px-.png"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/www.powerella.com.br-1200-x-300-px-.png",
-          "mobile_img": "/img/uploads/www.powerella.com.br-480-x-300-px-.png"
+          "img": "/img/uploads/sig_catav_desk.webp",
+          "mobile_img": "",
+          "link": ""
         },
         {
           "start": "",
@@ -46,21 +46,21 @@
       "sort": "offers",
       "title": "OUTLET",
       "headless": false,
-      "limit": 12,
+      "limit": 24,
       "page": 1
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
+      "shuffle": true,
+      "limit": 24,
       "page": 1,
-      "collection_id": "63efd2eff4167e223c935f2c:collections:Biquínis:/biquinis",
+      "collection_id": "61e5ab7b0c7c7272251054ea:categories:Top:/top",
       "headless": false
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
+      "shuffle": true,
+      "limit": 24,
       "page": 1,
       "headless": false,
       "collection_id": "61e5ab3b0c7c7272251053be:categories:Legging:/legging"
