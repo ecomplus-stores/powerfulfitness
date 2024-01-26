@@ -1,9 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "Seja sua melhor versão, seja Powerella!",
+    "text": "",
     "link": "",
-    "background": "#ff508f",
-    "color": "#8adb2d"
+    "background": "",
+    "color": ""
   },
   "contacts_stripe": {
     "pages": [],
