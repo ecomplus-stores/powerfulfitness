@@ -2,8 +2,8 @@
   "marketing_stripe": {
     "text": "10% de desconto no pagamento por pix",
     "link": "",
-    "background": "",
-    "color": ""
+    "background": "#ff508f",
+    "color": "#ff832d"
   },
   "contacts_stripe": {
     "pages": [],
