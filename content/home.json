@@ -42,7 +42,7 @@
     },
     {
       "type": "custom-html",
-      "html": "   <div class=\"list-variations\">\n<h4>Compre por tamanhos</h4>\n<ul>\n   <li><a href=\"/search?filters[]=tamanho:P\">P</a></li>\n   <li> <a href=\"/search?filters[]=tamanho:M\">M</a></li>\n   <li> <a href=\"/search?filters[]=tamanho:G\">G</a></li>\n   <li> <a href=\"/search?filters[]=tamanho:GG\">GG</a></li>\n</ul>\n<div>"
+      "html": "   <div class=\"list-variations\">\n<h4>Compre por tamanhos</h4>\n<ul>\n   <li><a href=\"/search?filters[]=size:P\">P</a></li>\n   <li> <a href=\"/search?filters[]=size:M\">M</a></li>\n   <li> <a href=\"/search?filters[]=size:G\">G</a></li>\n   <li> <a href=\"/search?filters[]=size:GG\">GG</a></li>\n</ul>\n<div>"
     },
     {
       "type": "collection-shelf",
