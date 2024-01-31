@@ -90,9 +90,10 @@
           "cidade": "Londrina - PR"
         },
         {
-          "texto": "As peças são de extrema qualidade! Atendimento impecável. Ambiente super agradável!",
-          "nome": "Ariadne Medeiros Melotto",
-          "img": "/img/uploads/imagem-do-whatsapp-de-2024-01-31-a-s-10.36.03_7255344c.jpg"
+          "texto": "Excelente desde a facilidade na hora de procurar os produtos, compra e finalização do pedido.. Recebi dentro do prazo e ameiii minha compra, as peças são perfeitas e de alta qualidade.. Com certeza irei comprar novamente ❤️  ",
+          "nome": "Sabrina Maia da Veiga",
+          "cidade": "Teresina - PI",
+          "img": "/img/uploads/img-20240131-wa0219.jpg"
         },
         {
           "texto": "As roupas além de lindas, são extremamente confortáveis e o tecido veste super bem. Fui muito bem atendida na loja, fiquei a vontade separando e experimentando os meus looks. Super recomendo ter peças uma mais linda que a outra. Vc se sente linda e com vontade de treinar.",
@@ -117,6 +118,18 @@
           "img": "/img/uploads/imagem-do-whatsapp-de-2024-01-31-a-s-10.36.00_b0131791.jpg"
         },
         {
+          "texto": "Estou encantado com a minha experiência na Powerella. A qualidade excepcional dos produtos combinada com a facilidade de navegação no site proporcionou uma experiência de compra incrível. As peças são confortáveis, duráveis e estilosas. A entrega foi surpreendentemente rápida, e o rastreamento em tempo real ofereceu tranquilidade. Esta loja não apenas entrega produtos de alta qualidade, mas também se destaca no atendimento ao cliente. Sou fã S2",
+          "nome": "Andressa Rospirski",
+          "cidade": "Foz do Iguaçu - PR",
+          "img": "/img/uploads/img-20240131-wa0218.jpg"
+        },
+        {
+          "texto": "Atendimento maravilhoso! Envio rapido, peças perfeitas!! Todas as roupas de muita qualidade! Amo comprar aqui!",
+          "nome": "Mariana Teodoro",
+          "cidade": "Timóteo - MG",
+          "img": "/img/uploads/img-20240131-wa0222.jpg"
+        },
+        {
           "texto": "Quando a gente chega na Powerella Fitness é bem recebido pela proprietária Paola com aquele cafezinho delicioso. As peças além de lindas são confortáveis dá vontade de levar tudo. Por isso a Powerella faz tanto sucesso. Une o bom atendimento e peças maravilhosas.",
           "nome": "Mônica Ayumi",
           "img": "/img/uploads/imagem-do-whatsapp-de-2024-01-31-a-s-10.36.00_72a87c74.jpg"
@@ -136,6 +149,11 @@
           "texto": "Ótimo atendimento, serviço excelente.",
           "nome": "Sandra Wyden",
           "img": "/img/uploads/imagem-do-whatsapp-de-2024-01-31-a-s-10.35.59_3e7fa0a6.jpg"
+        },
+        {
+          "texto": "As peças são de extrema qualidade! Atendimento impecável. Ambiente super agradável!",
+          "nome": "Ariadne Medeiros Melotto",
+          "img": "/img/uploads/imagem-do-whatsapp-de-2024-01-31-a-s-10.36.03_7255344c.jpg"
         },
         {
           "texto": "Ótima a loja é maravilhosa as peças são lindas e boa qualidade e um ótimo atendimento",
@@ -201,28 +219,10 @@
           "img": "/img/uploads/img-20240131-wa0223.jpg"
         },
         {
-          "texto": "Estou encantado com a minha experiência na Powerella. A qualidade excepcional dos produtos combinada com a facilidade de navegação no site proporcionou uma experiência de compra incrível. As peças são confortáveis, duráveis e estilosas. A entrega foi surpreendentemente rápida, e o rastreamento em tempo real ofereceu tranquilidade. Esta loja não apenas entrega produtos de alta qualidade, mas também se destaca no atendimento ao cliente. Sou fã S2",
-          "nome": "Andressa Rospirski",
-          "cidade": "Foz do Iguaçu - PR",
-          "img": "/img/uploads/img-20240131-wa0218.jpg"
-        },
-        {
           "texto": "Já sou cliente da loja desde o início. O atendimento e as peças são de qualidade excepcional. A Paola, que é a proprietária da loja responde rapidamente, bem atenciosa com os clientes, envia as peças corretas e o pagamento facilitado pelo link quando não é possível estar pessoalmente na loja. Sou uma cliente fidelizada pelo carisma do atendimento e qualidade das peças!",
           "nome": "Bruna Lucchesi",
           "cidade": "Foz do Iguaçu - PR",
           "img": "/img/uploads/img-20240131-wa0221.jpg"
-        },
-        {
-          "texto": "Excelente desde a facilidade na hora de procurar os produtos, compra e finalização do pedido.. Recebi dentro do prazo e ameiii minha compra, as peças são perfeitas e de alta qualidade.. Com certeza irei comprar novamente ❤️  ",
-          "nome": "Sabrina Maia da Veiga",
-          "cidade": "Teresina - PI",
-          "img": "/img/uploads/img-20240131-wa0219.jpg"
-        },
-        {
-          "texto": "Atendimento maravilhoso! Envio rapido, peças perfeitas!! Todas as roupas de muita qualidade! Amo comprar aqui!",
-          "nome": "Mariana Teodoro",
-          "cidade": "Timóteo - MG",
-          "img": "/img/uploads/img-20240131-wa0222.jpg"
         }
       ],
       "title": "O que dizem sobre a Powerella..."
