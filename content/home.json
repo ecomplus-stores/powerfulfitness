@@ -103,7 +103,8 @@
         {
           "texto": "Adorei a Loja! Peças super lindas, ótima localização, tudo  muito bem organizado, e fui suuuuuuper bem atendida! Amei! Além disso, ela envia por correio e fazem condicional, que é muito bom para quem não pode se deslocar ou prefere provar as peças em casa.",
           "nome": "Flavia Virginia de Lima",
-          "cidade": "Foz do Iguaçu - PR"
+          "cidade": "Foz do Iguaçu - PR",
+          "img": "/img/uploads/img-20240131-wa0224.jpg"
         },
         {
           "texto": "Ótimo atendimento, produtos de qualidade, roupa fitness super confortável,local acolhedor. Super recomendo.",
@@ -183,11 +184,13 @@
         },
         {
           "texto": "Adorei. Meu conjunto veio exatamente como na foto, e chegou dentro do prazo previsto.",
-          "nome": "Rafaele Barbizan Garofolo"
+          "nome": "Rafaele Barbizan Garofolo",
+          "img": "/img/uploads/imagem-do-whatsapp-de-2024-01-31-a-s-12.49.33_8bd38095.jpg"
         },
         {
           "texto": "Super recomendo, comprei pelo site! Chegou rapidinho, e do jeito que queria as peças! Adorei!",
-          "nome": "Karina Favarin"
+          "nome": "Karina Favarin",
+          "img": "/img/uploads/img-20240131-wa0220.jpg"
         },
         {
           "texto": "Adorei a Loja! Peças super lindas, ótima localização, tudo  muito bem organizado, e fui suuuuuuper bem atendida! Amei! Além disso, ela envia por correio e fazem condicional, que é muito bom para quem não pode se deslocar ou prefere provar as peças em casa.",
@@ -197,27 +200,32 @@
         {
           "nome": "Camila Piva",
           "cidade": "Marechal Cändido Rondon - PR",
-          "texto": "Adorei o site, muito prático e fácil de buscar as opções! Recebi minhas compras de forma rápida e segura! Super confiável, e peças de ótima qualidade!"
+          "texto": "Adorei o site, muito prático e fácil de buscar as opções! Recebi minhas compras de forma rápida e segura! Super confiável, e peças de ótima qualidade!",
+          "img": "/img/uploads/img-20240131-wa0223.jpg"
         },
         {
           "texto": "Estou encantado com a minha experiência na Powerella. A qualidade excepcional dos produtos combinada com a facilidade de navegação no site proporcionou uma experiência de compra incrível. As peças são confortáveis, duráveis e estilosas. A entrega foi surpreendentemente rápida, e o rastreamento em tempo real ofereceu tranquilidade. Esta loja não apenas entrega produtos de alta qualidade, mas também se destaca no atendimento ao cliente. Sou fã S2",
           "nome": "Andressa Rospirski",
-          "cidade": "Foz do Iguaçu - PR"
+          "cidade": "Foz do Iguaçu - PR",
+          "img": "/img/uploads/img-20240131-wa0218.jpg"
         },
         {
           "texto": "Já sou cliente da loja desde o início. O atendimento e as peças são de qualidade excepcional. A Paola, que é a proprietária da loja responde rapidamente, bem atenciosa com os clientes, envia as peças corretas e o pagamento facilitado pelo link quando não é possível estar pessoalmente na loja. Sou uma cliente fidelizada pelo carisma do atendimento e qualidade das peças!",
           "nome": "Bruna Lucchesi",
-          "cidade": "Foz do Iguaçu - PR"
+          "cidade": "Foz do Iguaçu - PR",
+          "img": "/img/uploads/img-20240131-wa0221.jpg"
         },
         {
           "texto": "Excelente desde a facilidade na hora de procurar os produtos, compra e finalização do pedido.. Recebi dentro do prazo e ameiii minha compra, as peças são perfeitas e de alta qualidade.. Com certeza irei comprar novamente ❤️  ",
           "nome": "Sabrina Maia da Veiga",
-          "cidade": "Teresina - PI"
+          "cidade": "Teresina - PI",
+          "img": "/img/uploads/img-20240131-wa0219.jpg"
         },
         {
           "texto": "Atendimento maravilhoso! Envio rapido, peças perfeitas!! Todas as roupas de muita qualidade! Amo comprar aqui!",
           "nome": "Mariana Teodoro",
-          "cidade": "Timóteo - MG"
+          "cidade": "Timóteo - MG",
+          "img": "/img/uploads/img-20240131-wa0222.jpg"
         }
       ],
       "title": "O que dizem sobre a Powerella..."
