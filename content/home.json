@@ -78,6 +78,17 @@
       "page": 1,
       "headless": false,
       "collection_id": "61e5ab4c0c7c727225105401:categories:Macacão:/macacao"
+    },
+    {
+      "type": "review-carousel",
+      "autoplay": 9000,
+      "reviews": [
+        {
+          "texto": "As peças são de extrema qualidade! Atendimento impecável. Ambiente super agradável!",
+          "nome": "Ariadne Medeiros Melotto"
+        }
+      ],
+      "title": "Teste"
     }
   ]
 }
