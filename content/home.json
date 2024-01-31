@@ -84,8 +84,20 @@
       "autoplay": 9000,
       "reviews": [
         {
+          "texto": "Eu amo as roupas dessa loja! São de super qualidade e lindas!! Sem contar a Paola que é uma querida, super atenciosa e me atende sempre muito bem.",
+          "nome": "Isabel Kappes"
+        },
+        {
           "texto": "As peças são de extrema qualidade! Atendimento impecável. Ambiente super agradável!",
           "nome": "Ariadne Medeiros Melotto"
+        },
+        {
+          "texto": "As roupas além de lindas, são extremamente confortáveis e o tecido veste super bem. Fui muito bem atendida na loja, fiquei a vontade separando e experimentando os meus looks. Super recomendo ter peças uma mais linda que a outra. Vc se sente linda e com vontade de treinar.",
+          "nome": "Claudia Bittner"
+        },
+        {
+          "texto": "Adorei a Loja! Peças super lindas, ótima localização, tudo  muito bem organizado, e fui suuuuuuper bem atendida! Amei! Além disso, ela envia por correio e fazem condicional, que é muito bom para quem não pode se deslocar ou prefere provar as peças em casa.",
+          "nome": "Flavia Virginia de Lima"
         },
         {
           "texto": "Ótimo atendimento, produtos de qualidade, roupa fitness super confortável,local acolhedor. Super recomendo.",
@@ -94,6 +106,14 @@
         {
           "texto": "Peças lindíssimas e de ótima qualidade... ambiente agradável e bom atendimento, super recomendo 👏👏",
           "nome": "Iara Amarilha"
+        },
+        {
+          "texto": "Quando a gente chega na Powerella Fitness é bem recebido pela proprietária Paola com aquele cafezinho delicioso. As peças além de lindas são confortáveis dá vontade de levar tudo. Por isso a Powerella faz tanto sucesso. Une o bom atendimento e peças maravilhosas.",
+          "nome": "Mônica Ayumi"
+        },
+        {
+          "texto": "Roupas maravilhosas! Além de lindas tem ótimo acabamento, vestem super bem!! Até me sinto mais motivada para praticar atividades  físicas, pois tenho certeza  que com a qualidade das roupas  não vou passar vergonha  com legging transparente! E o atendimento é excelente!",
+          "nome": "Anitta Andreghetti"
         },
         {
           "texto": "Amo o atendimento e as roupas são perfeitas!!!! Super indico 👏👏👏",
@@ -138,26 +158,6 @@
         {
           "texto": "Realmente uma experiência maravilhosa, as roupas são lindas de excelente qualidade e o atendimento é com muito carinho.",
           "nome": "Fabiola Trajano Andreolli"
-        },
-        {
-          "texto": "Quando a gente chega na Powerella Fitness é bem recebido pela proprietária Paola com aquele cafezinho delicioso. As peças além de lindas são confortáveis dá vontade de levar tudo. Por isso a Powerella faz tanto sucesso. Une o bom atendimento e peças maravilhosas.",
-          "nome": "Mônica Ayumi"
-        },
-        {
-          "texto": "Roupas maravilhosas! Além de lindas tem ótimo acabamento, vestem super bem!! Até me sinto mais motivada para praticar atividades  físicas, pois tenho certeza  que com a qualidade das roupas  não vou passar vergonha  com legging transparente! E o atendimento é excelente!",
-          "nome": "Anitta Andreghetti"
-        },
-        {
-          "texto": "Eu amo as roupas dessa loja! São de super qualidade e lindas!! Sem contar a Paola que é uma querida, super atenciosa e me atende sempre muito bem.",
-          "nome": "Isabel Kappes"
-        },
-        {
-          "texto": "As roupas além de lindas, são extremamente confortáveis e o tecido veste super bem. Fui muito bem atendida na loja, fiquei a vontade separando e experimentando os meus looks. Super recomendo ter peças uma mais linda que a outra. Vc se sente linda e com vontade de treinar.",
-          "nome": "Claudia Bittner"
-        },
-        {
-          "texto": "Adorei a Loja! Peças super lindas, ótima localização, tudo  muito bem organizado, e fui suuuuuuper bem atendida! Amei! Além disso, ela envia por correio e fazem condicional, que é muito bom para quem não pode se deslocar ou prefere provar as peças em casa.",
-          "nome": "Flavia Virginia de Lima"
         }
       ],
       "title": "O que dizem sobre a Powerella..."
