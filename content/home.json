@@ -133,10 +133,6 @@
           "img": "/img/uploads/imagem-do-whatsapp-de-2024-01-31-a-s-10.36.04_a9c8e156.jpg"
         },
         {
-          "texto": "Loja Maravilhosa!!! Atendimento nota mil!!!!",
-          "nome": "Diogo Marchesan"
-        },
-        {
           "texto": "Ótimo atendimento, serviço excelente.",
           "nome": "Sandra Wyden",
           "img": "/img/uploads/imagem-do-whatsapp-de-2024-01-31-a-s-10.35.59_3e7fa0a6.jpg"
@@ -195,7 +191,8 @@
         {
           "texto": "Adorei a Loja! Peças super lindas, ótima localização, tudo  muito bem organizado, e fui suuuuuuper bem atendida! Amei! Além disso, ela envia por correio e fazem condicional, que é muito bom para quem não pode se deslocar ou prefere provar as peças em casa.",
           "nome": "Fernanda Rodrigues",
-          "cidade": "Rio de Janeiro - RJ"
+          "cidade": "Rio de Janeiro - RJ",
+          "img": "/img/uploads/imagem-do-whatsapp-de-2024-01-31-a-s-12.51.11_a433d395.jpg"
         },
         {
           "nome": "Camila Piva",
