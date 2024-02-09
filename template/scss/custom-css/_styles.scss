@@ -76,10 +76,6 @@
     text-shadow: 0 1px 0 #a2a2a2;
     margin-bottom: 10px;
   } 
-  .rating__stars::before, .product-card__rating::before { 
-    content: '★★★★★';
-    opacity: .3;
-  }
   .rating__stars::after, .product-card__rating::after {
     color: gold;
     content: '★★★★★';
@@ -92,6 +88,4 @@
     width: 96.5%;
     overflow: hidden;
   }
-.main {
-    font-family: Galano Grotesque Alt;
-}
+
