@@ -1,7 +1,7 @@
 {
   "domain": "powerella.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#ff832d",
+  "primary_color": "#0d0d0d",
   "theme": {
     "bootswatch": "minty",
     "custom": "ecom-beauty"
