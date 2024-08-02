@@ -1484,39 +1484,51 @@
     </url>
   
     <url>
-      <loc>https://powerella.com.br/ccm</loc>
+      <loc>https://powerella.com.br/top-larulp-eva-basic-fit</loc>
       <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <priority>0.9</priority>
     </url>
   
     <url>
-      <loc>https://powerella.com.br/ccm-sports</loc>
+      <loc>https://powerella.com.br/legging-larulp-hollie-basic-fit</loc>
       <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <priority>0.9</priority>
     </url>
   
     <url>
-      <loc>https://powerella.com.br/lett</loc>
+      <loc>https://powerella.com.br/bermuda-larulp-traci-basic-fit</loc>
       <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <priority>0.9</priority>
     </url>
   
     <url>
-      <loc>https://powerella.com.br/colcci-sport</loc>
+      <loc>https://powerella.com.br/short-larulp-bessie-design-cobra</loc>
       <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <priority>0.9</priority>
     </url>
   
     <url>
-      <loc>https://powerella.com.br/authen</loc>
+      <loc>https://powerella.com.br/short-larulp-lina-basic</loc>
       <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <priority>0.9</priority>
     </url>
   
     <url>
-      <loc>https://powerella.com.br/alto-giro</loc>
+      <loc>https://powerella.com.br/legging-larulp-doreen-basic-fit</loc>
       <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://powerella.com.br/vestido-larulp-bella-motion</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://powerella.com.br/saia-larulp-irla-motion</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
     </url>
   
     <url>
@@ -1629,6 +1641,42 @@
   
     <url>
       <loc>https://powerella.com.br/short-saia</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://powerella.com.br/ccm</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://powerella.com.br/ccm-sports</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://powerella.com.br/lett</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://powerella.com.br/colcci-sport</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://powerella.com.br/authen</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://powerella.com.br/alto-giro</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
