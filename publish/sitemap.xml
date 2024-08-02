@@ -1418,6 +1418,30 @@
     </url>
   
     <url>
+      <loc>https://powerella.com.br/jaqueta-larulp-cathryn-corta-vento</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://powerella.com.br/top-larulp-river-comfy</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://powerella.com.br/short-larulp-sara-comfy</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://powerella.com.br/top-larulp-sandy-motion</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://powerella.com.br/acessorios</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1628,13 +1652,13 @@
     </url>
   
     <url>
-      <loc>https://powerella.com.br/admin/index</loc>
+      <loc>https://powerella.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://powerella.com.br/app/index</loc>
+      <loc>https://powerella.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
