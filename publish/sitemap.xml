@@ -1706,12 +1706,6 @@
     </url>
   
     <url>
-      <loc>https://powerella.com.br/pages/contato</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://powerella.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1736,6 +1730,12 @@
     </url>
   
     <url>
+      <loc>https://powerella.com.br/pages/contato</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://powerella.com.br/posts/esta-loja-e-um-pwa</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1748,15 +1748,15 @@
     </url>
   
     <url>
-      <loc>https://powerella.com.br/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://powerella.com.br/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://powerella.com.br/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
     </url>
   
     <url>
