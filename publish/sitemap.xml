@@ -122,42 +122,6 @@
     </url>
   
     <url>
-      <loc>https://powerella.com.br/ccm</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://powerella.com.br/ccm-sports</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://powerella.com.br/lett</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://powerella.com.br/colcci-sport</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://powerella.com.br/authen</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://powerella.com.br/alto-giro</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://powerella.com.br/top-cla</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1688,6 +1652,12 @@
     </url>
   
     <url>
+      <loc>https://powerella.com.br/short-body-for-sure-04898</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://powerella.com.br/colete-body-for-sure</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1718,6 +1688,42 @@
     </url>
   
     <url>
+      <loc>https://powerella.com.br/ccm</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://powerella.com.br/ccm-sports</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://powerella.com.br/lett</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://powerella.com.br/colcci-sport</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://powerella.com.br/authen</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://powerella.com.br/alto-giro</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://powerella.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1736,13 +1742,13 @@
     </url>
   
     <url>
-      <loc>https://powerella.com.br/pages/pagamentos</loc>
+      <loc>https://powerella.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://powerella.com.br/pages/privacidade</loc>
+      <loc>https://powerella.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1784,15 +1790,15 @@
     </url>
   
     <url>
-      <loc>https://powerella.com.br/app/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
-    </url>
-  
-    <url>
       <loc>https://powerella.com.br/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://powerella.com.br/app/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
 </urlset>
