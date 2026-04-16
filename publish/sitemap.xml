@@ -392,12 +392,6 @@
     </url>
   
     <url>
-      <loc>https://powerella.com.br/camiseta-colcci-bege</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://powerella.com.br/calca-legging-colcci-veraoazul</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -531,12 +525,6 @@
   
     <url>
       <loc>https://powerella.com.br/top-body-for-sure-3183</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://powerella.com.br/camiseta-body-for-sure-1891</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1076,13 +1064,13 @@
     </url>
   
     <url>
-      <loc>https://powerella.com.br/admin/index</loc>
+      <loc>https://powerella.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://powerella.com.br/app/index</loc>
+      <loc>https://powerella.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
