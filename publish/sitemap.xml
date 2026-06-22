@@ -974,6 +974,24 @@
     </url>
   
     <url>
+      <loc>https://powerella.com.br/ccm</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://powerella.com.br/colcci-sport</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://powerella.com.br/authen</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://powerella.com.br/acessorios</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1083,24 +1101,6 @@
   
     <url>
       <loc>https://powerella.com.br/saia</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://powerella.com.br/ccm</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://powerella.com.br/colcci-sport</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://powerella.com.br/authen</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
