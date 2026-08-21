@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.0d3f96120e66d1fa8e4fb7887c64c556.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.8455cad8c1f419bb913dce4157a75d5a.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.2ff50866b371d0c868bad9682bf6e884.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.f12bdb766a7e98b48a69e39d90e66a93.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.2f9d7953e9e4dfa0e78b1e66fa502b04.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Powerella",
+  "short_name": "Powerella ",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Powerella significa “o poder dela” e ser Powerella é abraçar sua força interior e encontrar motivação para alcançar seus objetivos. É acreditar em si mesma e superar desafios com coragem e determinação. Powerella é uma atitude que inspira outras mulheres a serem confiantes, resilientes e a lutar por seus sonhos.\nSeja Powerella e mostre ao mundo do que você é capaz! ⚡️",
+  "background_color": "#ffffff",
+  "theme_color": "#0d0d0d"
+}
