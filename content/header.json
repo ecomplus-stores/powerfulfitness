@@ -2,8 +2,8 @@
   "marketing_stripe": {
     "text": "Cadastre-se e ganhe 10% de desconto na primeira compra",
     "link": "",
-    "background": "#ff508f",
-    "color": "#090909"
+    "background": "#f7f3ed",
+    "color": "#3d2925"
   },
   "contacts_stripe": {
     "pages": [],
