@@ -1,12 +1,12 @@
 {
   "domain": "powerella.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#0d0d0d",
+  "primary_color": "#3f2925",
   "theme": {
     "bootswatch": "minty",
     "custom": "ecom-beauty"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#f7f3ed",
   "repository": "ecomplus-stores/powerfulfitness",
   "logo": "/img/uploads/logo-site-1.png",
   "name": "Powerella",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/favicon-powerella.png",
   "icons_font": "line-awesome",
   "country_code": "BR",
-  "secondary_color": "#161516",
+  "secondary_color": "#b78279",
   "icon": "/img/uploads/favicon-powerella.png",
   "store_id": 32640,
   "description": "Powerella significa “o poder dela” e ser Powerella é abraçar sua força interior e encontrar motivação para alcançar seus objetivos. É acreditar em si mesma e superar desafios com coragem e determinação. Powerella é uma atitude que inspira outras mulheres a serem confiantes, resilientes e a lutar por seus sonhos.\nSeja Powerella e mostre ao mundo do que você é capaz! ⚡️",
