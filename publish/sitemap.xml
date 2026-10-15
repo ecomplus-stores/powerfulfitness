@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://powerella.com.br/ccm</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://powerella.com.br/colcci-sport</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://powerella.com.br/authen</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://powerella.com.br/top-cla</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -416,24 +434,6 @@
     </url>
   
     <url>
-      <loc>https://powerella.com.br/ccm</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://powerella.com.br/colcci-sport</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://powerella.com.br/authen</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://powerella.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -488,9 +488,9 @@
     </url>
   
     <url>
-      <loc>https://powerella.com.br/search</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <loc>https://powerella.com.br/admin/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
     <url>
@@ -500,13 +500,13 @@
     </url>
   
     <url>
-      <loc>https://powerella.com.br/admin/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
+      <loc>https://powerella.com.br/maintenance/index</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://powerella.com.br/maintenance/index</loc>
+      <loc>https://powerella.com.br/search</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
