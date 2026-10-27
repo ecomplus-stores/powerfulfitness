@@ -548,6 +548,24 @@
     </url>
   
     <url>
+      <loc>https://powerella.com.br/top-ala-cruzada-body-peach-active-mode</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://powerella.com.br/macaquinho-body-peach-studio</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://powerella.com.br/top-ala-reta-canelado-urban-fit</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://powerella.com.br/ccm</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -572,6 +590,12 @@
     </url>
   
     <url>
+      <loc>https://powerella.com.br/pages/entrega</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://powerella.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -585,12 +609,6 @@
   
     <url>
       <loc>https://powerella.com.br/pages/privacidade</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://powerella.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
